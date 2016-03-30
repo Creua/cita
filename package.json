@@ -1,0 +1,26 @@
+{
+  "name": "creua-cita",
+  "version": "0.0.1",
+  "description": "Simple API for appointments",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "test/support.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Creua/cita.git"
+  },
+  "keywords": [
+    "creua",
+    "cita",
+    "event",
+    "appointment",
+    "booking"
+  ],
+  "author": "Albert Vilà Picas",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Creua/cita/issues"
+  },
+  "homepage": "https://github.com/Creua/cita#readme"
+}
